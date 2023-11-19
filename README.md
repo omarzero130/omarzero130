@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there  my name is omar shalaby and i am a quality control engineer who likes test automation 👋
 
 <!--
 **omarzero130/omarzero130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
