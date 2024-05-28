@@ -19,7 +19,7 @@
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://rest-assured.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" alt="rest-assured" width="40" height="40"/> </a>
-<a href="https://appium.io" target="_blank" rel="noreferrer"> <img src="https://github.com/appium/appium/blob/master/docs/en/assets/appium-logo.svg" alt="appium" width="40" height="40"/> </a>
+<a href="https://appium.io" target="_blank" rel="noreferrer"> <img src="https://appium.io/img/logo/logo-blue-trans.png" alt="appium" width="40" height="40"/> </a>
 <a href="https://playwright.dev" target="_blank" rel="noreferrer"> <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40"/> </a>
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
